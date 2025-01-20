@@ -1,4 +1,4 @@
-# Respiration of Neotrypaea uncinata in hypoxia and reoxygenation
+# Respiration of _Neotrypaea uncinata_ in hypoxia and reoxygenation
 
 ## This repository contains code and data needed to reproduce figures of the manuscript: 
 
